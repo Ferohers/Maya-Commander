@@ -89,7 +89,7 @@ Maya Commander/
 ├── scripts/
 │   └── build.sh                # ARM64-only release build script
 ├── Entitlements.plist          # Sandbox + USB entitlement
-├── mac-icon.png                # Source icon (1024x1024)
+├── Icon-mac.png                # Source icon (1024x1024)
 ├── README.md                   # This file
 └── Maya Commander.xcodeproj/   # Xcode project
 ```
